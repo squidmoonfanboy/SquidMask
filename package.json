@@ -244,7 +244,7 @@
     "@metamask/eslint-config-typescript": "^7.0.0",
     "@metamask/mobile-provider": "^2.1.0",
     "@react-native-community/eslint-config": "^1.1.0",
-    "@types/enzyme": "^3.10.9",
+    "@types/enzyme": "^3.10.10",
     "@types/jest": "^27.0.1",
     "@types/react": "^17.0.11",
     "@types/react-native": "^0.64.10",
